@@ -48,7 +48,7 @@ const Title = styled.h1`
 
 const ProductName = styled.div`
   font-size: 1rem;
-  color: #595959;
+  color: #000080;
   margin-top: 1rem;
   font-weight: bold;
   text-decoration: underline;
